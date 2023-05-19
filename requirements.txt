@@ -1,0 +1,4 @@
+SpeechRecognition
+ffprobe-python
+ffmpeg
+os
