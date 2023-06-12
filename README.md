@@ -4,9 +4,8 @@ This project is designed to transcribe audio files using Python. It utilizes the
 
 ## Features
 
-- Transcribe audio files to text using Google Speech Recognition API.
+- Transcribe audio files to text using openai-whisper API.
 - **WIP:** Support for various audio formats such as WAV, MP3, etc. 
-- **WIP:** Batch processing of multiple audio files.
 - **WIP:** Customizable output and post-processing options.
 
 ## Requirements
