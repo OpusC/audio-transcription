@@ -14,7 +14,8 @@ env/
 
 # Ignore sensitive or local configuration files
 config.ini
-secrets.json
+gdrive/client_secrets.json
+gdrive/google_drive.py
 
 # Ignore audio files
 audio_files/*
